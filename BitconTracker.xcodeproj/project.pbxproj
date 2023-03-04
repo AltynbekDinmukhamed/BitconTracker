@@ -7,23 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		56921DC429B23E5900FD97F7 /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56921DC329B23E5900FD97F7 /* CoinManager.swift */; };
+		56921DC629B3771200FD97F7 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56921DC529B3771200FD97F7 /* CoinData.swift */; };
+		56921DC829B3828600FD97F7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 56921DC729B3828600FD97F7 /* README.md */; };
+		56921DCC29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.46.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 56921DCA29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.46.54.png */; };
+		56921DCD29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.50.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 56921DCB29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.50.48.png */; };
 		56D68D7529B1030F008F9FAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D68D7429B1030F008F9FAB /* AppDelegate.swift */; };
 		56D68D7729B1030F008F9FAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D68D7629B1030F008F9FAB /* SceneDelegate.swift */; };
 		56D68D7929B1030F008F9FAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D68D7829B1030F008F9FAB /* ViewController.swift */; };
-		56D68D7C29B1030F008F9FAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56D68D7A29B1030F008F9FAB /* Main.storyboard */; };
-		56D68D7E29B10310008F9FAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56D68D7D29B10310008F9FAB /* Assets.xcassets */; };
 		56D68D8129B10310008F9FAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56D68D7F29B10310008F9FAB /* LaunchScreen.storyboard */; };
+		56D68D8D29B1283D008F9FAB /* VewsElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D68D8C29B1283D008F9FAB /* VewsElements.swift */; };
+		56D68D8F29B12AEF008F9FAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56D68D8E29B12AEF008F9FAB /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		56921DC329B23E5900FD97F7 /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
+		56921DC529B3771200FD97F7 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
+		56921DC729B3828600FD97F7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		56921DCA29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.46.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2023-03-04 at 19.46.54.png"; sourceTree = "<group>"; };
+		56921DCB29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.50.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2023-03-04 at 19.50.48.png"; sourceTree = "<group>"; };
 		56D68D7129B1030F008F9FAB /* BitconTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BitconTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56D68D7429B1030F008F9FAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56D68D7629B1030F008F9FAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		56D68D7829B1030F008F9FAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		56D68D7B29B1030F008F9FAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		56D68D7D29B10310008F9FAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56D68D8029B10310008F9FAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56D68D8229B10310008F9FAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56D68D8C29B1283D008F9FAB /* VewsElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VewsElements.swift; sourceTree = "<group>"; };
+		56D68D8E29B12AEF008F9FAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,9 +47,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		56921DC229B23E3E00FD97F7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				56921DC329B23E5900FD97F7 /* CoinManager.swift */,
+				56921DC529B3771200FD97F7 /* CoinData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		56921DC929B384D300FD97F7 /* screenShots */ = {
+			isa = PBXGroup;
+			children = (
+				56921DCA29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.46.54.png */,
+				56921DCB29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.50.48.png */,
+			);
+			path = screenShots;
+			sourceTree = "<group>";
+		};
 		56D68D6829B1030F008F9FAB = {
 			isa = PBXGroup;
 			children = (
+				56921DC929B384D300FD97F7 /* screenShots */,
+				56921DC729B3828600FD97F7 /* README.md */,
 				56D68D7329B1030F008F9FAB /* BitconTracker */,
 				56D68D7229B1030F008F9FAB /* Products */,
 			);
@@ -58,13 +88,30 @@
 			children = (
 				56D68D7429B1030F008F9FAB /* AppDelegate.swift */,
 				56D68D7629B1030F008F9FAB /* SceneDelegate.swift */,
-				56D68D7829B1030F008F9FAB /* ViewController.swift */,
-				56D68D7A29B1030F008F9FAB /* Main.storyboard */,
-				56D68D7D29B10310008F9FAB /* Assets.xcassets */,
+				56921DC229B23E3E00FD97F7 /* Model */,
+				56D68D8B29B12825008F9FAB /* Views */,
+				56D68D8A29B12813008F9FAB /* Controllers */,
 				56D68D7F29B10310008F9FAB /* LaunchScreen.storyboard */,
+				56D68D8E29B12AEF008F9FAB /* Assets.xcassets */,
 				56D68D8229B10310008F9FAB /* Info.plist */,
 			);
 			path = BitconTracker;
+			sourceTree = "<group>";
+		};
+		56D68D8A29B12813008F9FAB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				56D68D7829B1030F008F9FAB /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		56D68D8B29B12825008F9FAB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				56D68D8C29B1283D008F9FAB /* VewsElements.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +172,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56921DCC29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.46.54.png in Resources */,
+				56921DCD29B384EA00FD97F7 /* Screenshot 2023-03-04 at 19.50.48.png in Resources */,
+				56921DC829B3828600FD97F7 /* README.md in Resources */,
+				56D68D8F29B12AEF008F9FAB /* Assets.xcassets in Resources */,
 				56D68D8129B10310008F9FAB /* LaunchScreen.storyboard in Resources */,
-				56D68D7E29B10310008F9FAB /* Assets.xcassets in Resources */,
-				56D68D7C29B1030F008F9FAB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +187,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56921DC629B3771200FD97F7 /* CoinData.swift in Sources */,
 				56D68D7929B1030F008F9FAB /* ViewController.swift in Sources */,
 				56D68D7529B1030F008F9FAB /* AppDelegate.swift in Sources */,
 				56D68D7729B1030F008F9FAB /* SceneDelegate.swift in Sources */,
+				56D68D8D29B1283D008F9FAB /* VewsElements.swift in Sources */,
+				56921DC429B23E5900FD97F7 /* CoinManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		56D68D7A29B1030F008F9FAB /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				56D68D7B29B1030F008F9FAB /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		56D68D7F29B10310008F9FAB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -291,9 +335,9 @@
 				INFOPLIST_FILE = BitconTracker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -318,9 +362,9 @@
 				INFOPLIST_FILE = BitconTracker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
